@@ -8,7 +8,7 @@ This is a FreeGPT 3.5 API service that is available 24/7 without requiring an AP
 
 ## 🚀 How to Use
 ### Base URL
-freegpt35-y2kl.onrender.com/v1/Chat/completions
+https://freegpt35-y2kl.onrender.com/v1/Chat/completions
 
 ### Payload
 ```json
