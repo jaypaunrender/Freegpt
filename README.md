@@ -8,7 +8,7 @@ This is a FreeGPT 3.5 API service that is available 24/7 without requiring an AP
 
 ## 🚀 How to Use
 ### Base URL
-https://important-flashy-relative.glitch.me/v1/Chat/completions
+freegpt35-y2kl.onrender.com/v1/Chat/completions
 
 ### Payload
 ```json
@@ -19,7 +19,7 @@ https://important-flashy-relative.glitch.me/v1/Chat/completions
 
 ### 🚨 Example Curl Request
 ```bash
-curl -X POST "https://important-flashy-relative.glitch.me/v1/Chat/completions" \
+curl -X POST "https://freegpt35-y2kl.onrender.com/v1/Chat/completions" \
 -H "Content-Type: application/json" \
 -d '{"messages": "user:hi, Ai: hello, User: what is your Name?"}
 ```
@@ -41,7 +41,7 @@ curl -X POST "https://important-flashy-relative.glitch.me/v1/Chat/completions" \
 
 ### 🔄 System Prompt Example
 ```bash
-curl -X POST "https://important-flashy-relative.glitch.me/v1/Chat/completions" \
+curl -X POST "https://freegpt35-y2kl.onrender.com/v1/Chat/completions" \
 -H "Content-Type: application/json" \
 -d '{"messages": "system:The Value of A Is 10, User: what is Value Of a?"}'
 ```
